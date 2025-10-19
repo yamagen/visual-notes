@@ -1,8 +1,8 @@
 # visual-notes
 
-Last change: 2025/10/19-12:28:34.
+Last change: 2025/10/19-13:25:43.
 
-Hilofumi Yamamoto, Ph.D.
+Hilofumi Yamamoto, Ph.D. Institute of Science Tokyo
 
 ## About
 
