@@ -49,7 +49,7 @@ void write_index(json_t *array, const char *output_filename) {
             size_t i;
             for (i = 0; i < json_array_size(exts); i++) {
                 const char *ext = json_string_value(json_array_get(exts, i));
-                fprintf(out, "[`%s`](%s.%s)", ext, filename, ext);
+                fprintf(out, "[`%s`](%s%s.%s)", ext, image_dir, filename, ext);
                 if (i < json_array_size(exts) - 1) fprintf(out, ", ");
             }
         }
