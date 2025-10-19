@@ -1,6 +1,6 @@
 # visual-notes
 
-Last change: 2025/10/19-20:43:10.
+Last change: 2025/10/19-20:44:38.
 
 Hilofumi Yamamoto, Ph.D. Institute of Science Tokyo
 
@@ -20,11 +20,8 @@ They are moments of perception, hesitation, rhythm, and mood — drawn instead o
 - `images/` contains original drawings or photographs.
 - Optional `notes/` or `captions/` folders may hold Markdown reflections or filenames as metadata.
 
----
+## [Table of contents](index.md) 
 
-## [Table of contents](index.md)： 
-
----
 ## Purpose
 
 To document things that could not be expressed fully in language,  
