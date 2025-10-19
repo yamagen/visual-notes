@@ -1,6 +1,6 @@
 # visual-notes
 
-Last change: 2025/10/19-20:44:38.
+Last change: 2025/10/19-20:46:47.
 
 Hilofumi Yamamoto, Ph.D. Institute of Science Tokyo
 
@@ -13,7 +13,6 @@ Each image is a record, not just of what was seen, but of how it felt.
 These notes are not necessarily complete or formal.  
 They are moments of perception, hesitation, rhythm, and mood — drawn instead of said.
 
----
 
 ## Structure
 
@@ -26,8 +25,6 @@ They are moments of perception, hesitation, rhythm, and mood — drawn instead o
 
 To document things that could not be expressed fully in language,  
 and to keep track of what drawing, framing, and seeing left behind.
-
----
 
 ## License
 
