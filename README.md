@@ -1,17 +1,17 @@
 # visual-notes
 
-Last change: 2025/10/19-20:46:47.
+Last change: 2025/10/19-20:48:14.
 
 Hilofumi Yamamoto, Ph.D. Institute of Science Tokyo
 
 ## About
 
-This is a collection of visual notes — sketches, diagrams, and images that reflect thoughts I chose not to put into words.
+This is a collection of visual notes: sketches, diagrams, and images that reflect thoughts I chose not to put into words.
 
 Each image is a record, not just of what was seen, but of how it felt.
 
 These notes are not necessarily complete or formal.  
-They are moments of perception, hesitation, rhythm, and mood — drawn instead of said.
+They are moments of perception, hesitation, rhythm, and mood drawning instead of said.
 
 
 ## Structure
