@@ -1,6 +1,6 @@
 # Table of Contents
 
-# Last change: 2025/10/19-12:58:19.
+# Last change: 2025/10/19-12:59:30.
 
 Welcome to visual-notes, a collection of sketches, diagrams, and images that reflect thoughts I chose not to put into words.
 ---
@@ -14,3 +14,4 @@ Welcome to visual-notes, a collection of sketches, diagrams, and images that ref
    [pdf](./images/kabukiStickers01.pdf)
    [png](./images/kabukiStickers01.png)
     <img src="./images/kabukiStickers01.png" alt="kabukiStickers01" width="70">
+    sticker kabuki culture isct 
