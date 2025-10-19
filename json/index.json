@@ -1,0 +1,58 @@
+[
+  {
+    "date": [20250612],
+    "filename": "thought2waka02",
+    "oldfilename": ["thought2waka02"],
+    "version": 1,
+    "extension": ["png", "svg", "pdf"],
+    "tags": ["waka", "poem", "thought", "perception"]
+  },
+  {
+    "date": [20250515],
+    "filename": "thought2waka01",
+    "oldfilename": ["thought2waka01"],
+    "version": 1,
+    "extension": ["png", "svg", "pdf"],
+    "tags": ["waka", "poem", "thought", "perception"]
+  },
+  {
+    "date": [20250512],
+    "filename": "kabukiStickers01",
+    "oldfilename": ["kabukiStickers01"],
+    "version": 1,
+    "extension": ["png", "svg", "pdf"],
+    "tags": ["sticker", "kabuki", "culture", "isct"]
+  },
+  {
+    "date": [20241201],
+    "filename": "bustour01",
+    "oldfilename": ["bustour01"],
+    "version": 1,
+    "extension": ["png", "svg", "pdf"],
+    "tags": ["Bus", "tour", "event", "isct"]
+  },
+  {
+    "date": [20250415],
+    "filename": "tasuki-gake01",
+    "oldfilename": ["tasuki-gake01"],
+    "version": 1,
+    "extension": ["png", "svg", "pdf"],
+    "tags": ["process", "grammar", "model", "tasuki-gake"]
+  },
+  {
+    "date": [20250326],
+    "filename": "show-and-tell01",
+    "oldfilename": ["show-and-tell01"],
+    "version": 1,
+    "extension": ["png", "svg", "pdf"],
+    "tags": ["show", "tell", "visual", "explanation"]
+  },
+  {
+    "date": [20241201],
+    "filename": "colloqjseal01",
+    "oldfilename": ["colloqjseal01"],
+    "version": 1,
+    "extension": ["png", "svg", "pdf"],
+    "tags": ["colloqj", "seal", "sticker", "expression"]
+  }
+]
