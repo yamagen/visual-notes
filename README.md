@@ -1,6 +1,6 @@
 # visual-notes
 
-Last change: 2025/10/19-11:32:24.
+Last change: 2025/10/19-12:28:34.
 
 Hilofumi Yamamoto, Ph.D.
 
@@ -22,6 +22,11 @@ They are moments of perception, hesitation, rhythm, and mood — drawn instead o
 
 ---
 
+## Index
+
+- [index.md](index.md)： Table of contents
+
+---
 ## Purpose
 
 To document things that could not be expressed fully in language,  

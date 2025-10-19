@@ -1,6 +1,6 @@
 # visual-notes
 
-Last change: 2025/10/19-11:34:34.
+Last change: 2025/10/19-12:27:44.
 
 Hilofumi Yamamoto, Ph.D.
 
@@ -20,6 +20,10 @@ Hilofumi Yamamoto, Ph.D.
 - `images/`：絵や写真などの本体
 - `notes/` や `captions/`：補足的なメモや関連する言葉（任意）
 
+---
+## インデックス
+
+- [index.md](index.md)：目次ファイル
 ---
 
 ## 目的
