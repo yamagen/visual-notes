@@ -1,6 +1,6 @@
 # Table of Contents
 
-Last change: 2025/10/19-13:45:51.
+Last change: 2025/10/19-13:48:10.
 
 Hilofumi Yamamoto, Ph.D. Institute of Science Tokyo
 
@@ -34,6 +34,10 @@ Welcome to visual-notes, a collection of sketches, diagrams, and images that ref
    [pdf](./images/tasuki-gake01.pdf)
    [png](./images/tasuki-gake01.png)
    2025-04-15 tasuki-gake01 Process Grammar Model tasuki-gake effect 
+1.  <img src="./images/showandtell01.png" alt="showandtell01" width="70">:
+   [png](./images/showandtell01.png)
+   2025-03-26 showandtell01
+   Show and Tell, visual explanation concept, speech idea
 1. <img src="./images/bustour01.png" alt="bustour01" width="70">:
    [svg](./images/bustour01.svg)
    [pdf](./images/bustour01.pdf)
