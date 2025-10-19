@@ -3,6 +3,7 @@
 #include <string.h>
 #include <jansson.h>
 #define image_width 60
+#define image_dir "images/"
 
 void write_index(json_t *array, const char *output_filename) {
     FILE *out = fopen(output_filename, "w");
@@ -39,7 +40,7 @@ void write_index(json_t *array, const char *output_filename) {
             }
         }
 
-        fprintf(out, "## <img src=\"%s.png\" width=\"%d\">: \n", filename, image_width);
+        fprintf(out, "## <img src=\"%s%s.png\" width=\"%d\">: \n", image_dir, filename, image_width);
         fprintf(out, "- %s (%s)\n", filename, date_str);
         fprintf(out, "- Tags: %s\n", tags_buf);
         fprintf(out, "- Files: ");
