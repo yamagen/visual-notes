@@ -1,4 +1,4 @@
-# Visual Archive
+# Visual Intex
 
 ## <img src="images/thought2waka02.png" width="60">
 - thought2waka02 (20250612)

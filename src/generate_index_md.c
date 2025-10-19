@@ -12,7 +12,7 @@ void write_index(json_t *array, const char *output_filename) {
         return;
     }
 
-    fprintf(out, "# Visual Archive\n\n");
+    fprintf(out, "# Visual Intex\n\n");
 
     size_t index;
     json_t *item;
