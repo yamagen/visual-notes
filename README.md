@@ -1,6 +1,6 @@
 # visual-notes
 
-Last change: 2025/10/19-13:25:43.
+Last change: 2025/10/19-20:43:10.
 
 Hilofumi Yamamoto, Ph.D. Institute of Science Tokyo
 
@@ -22,9 +22,7 @@ They are moments of perception, hesitation, rhythm, and mood — drawn instead o
 
 ---
 
-## Index
-
-- [index.md](index.md)： Table of contents
+## [Table of contents](index.md)： 
 
 ---
 ## Purpose
