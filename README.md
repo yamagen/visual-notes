@@ -1,6 +1,6 @@
 # Visual-Notes
 
-Last change: 2025/10/19-20:50:05.
+Last change: 2025/10/21-20:40:05.
 
 Hilofumi Yamamoto, Ph.D. Institute of Science Tokyo
 
@@ -13,13 +13,12 @@ Each image is a record, not just of what was seen, but of how it felt.
 These notes are not necessarily complete or formal.  
 They are moments of perception, hesitation, rhythm, and mood drawning instead of said.
 
-
 ## Structure
 
 - `images/` contains original drawings or photographs.
 - Optional `notes/` or `captions/` folders may hold Markdown reflections or filenames as metadata.
 
-## [Table of contents](index.md) 
+## [Table of contents](index.md)
 
 ## Purpose
 
@@ -28,7 +27,10 @@ and to keep track of what drawing, framing, and seeing left behind.
 
 ## License
 
-This repository is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
+This repository is licensed under the
+[Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
+
+Also source codes which generate index.md written in C are under [MIT](LICENCE-MIT.txt) License.
 
 You are free to:
 
