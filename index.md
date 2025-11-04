@@ -1,5 +1,10 @@
 # Visual Intex
 
+## <img src="images/kanjiUeShita01.png" width="60">
+- kanjiUeShita01 (20240330)
+- Tags: kanji, ue, shita
+- Files: [`png`](images/kanjiUeShita01.png)
+
 ## <img src="images/thought2waka02.png" width="60">
 - thought2waka02 (20250612)
 - Tags: waka, poem, thought, perception

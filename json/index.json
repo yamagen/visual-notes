@@ -1,5 +1,15 @@
 [
   {
+    "date": [20240330],
+    "filename": "kanjiUeShita01",
+    "oldfilename": ["kanjiUeShita01"],
+    "version": 1,
+    "extension": ["png"],
+    "answer-ja": "上/下",
+    "answer-en": "ue/shita",
+    "tags": ["kanji", "ue", "shita"]
+  },
+  {
     "date": [20250612],
     "filename": "thought2waka02",
     "oldfilename": ["thought2waka02"],
