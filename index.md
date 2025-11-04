@@ -1,5 +1,10 @@
 # Visual Intex
 
+## <img src="images/kanjiTa01.png" width="60">
+- kanjiTa01 (20240330)
+- Tags: kanji, ta
+- Files: [`png`](images/kanjiTa01.png)
+
 ## <img src="images/kanjiUeShita01.png" width="60">
 - kanjiUeShita01 (20240330)
 - Tags: kanji, ue, shita

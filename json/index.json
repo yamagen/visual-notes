@@ -1,9 +1,21 @@
 [
   {
     "date": [20240330],
+    "filename": "kanjiTa01",
+    "oldfilename": ["kanjiTa01"],
+    "version": 1,
+    "class": "K44",
+    "extension": ["png"],
+    "answer-ja": "田",
+    "answer-en": "ta",
+    "tags": ["kanji", "ta"]
+  },
+  {
+    "date": [20240330],
     "filename": "kanjiUeShita01",
     "oldfilename": ["kanjiUeShita01"],
     "version": 1,
+    "class": "K44",
     "extension": ["png"],
     "answer-ja": "上/下",
     "answer-en": "ue/shita",
