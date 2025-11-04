@@ -2,12 +2,12 @@
 
 ## <img src="images/kanjiTa01.png" width="60">
 - kanjiTa01 (20240330)
-- Tags: kanji, ta
+- Tags: kanji, ta, rice field
 - Files: [`png`](images/kanjiTa01.png)
 
 ## <img src="images/kanjiUeShita01.png" width="60">
 - kanjiUeShita01 (20240330)
-- Tags: kanji, ue, shita
+- Tags: kanji, ue, shita, up, down
 - Files: [`png`](images/kanjiUeShita01.png)
 
 ## <img src="images/thought2waka02.png" width="60">

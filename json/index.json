@@ -6,9 +6,9 @@
     "version": 1,
     "class": "K44",
     "extension": ["png"],
-    "answer-ja": "田",
-    "answer-en": "ta",
-    "tags": ["kanji", "ta"]
+    "answer-ja": "田, ta",
+    "answer-en": "rice field",
+    "tags": ["kanji", "ta", "rice field"]
   },
   {
     "date": [20240330],
@@ -18,8 +18,8 @@
     "class": "K44",
     "extension": ["png"],
     "answer-ja": "上/下",
-    "answer-en": "ue/shita",
-    "tags": ["kanji", "ue", "shita"]
+    "answer-en": "ue/shita (up/down)",
+    "tags": ["kanji", "ue", "shita", "up", "down"]
   },
   {
     "date": [20250612],
