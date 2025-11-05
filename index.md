@@ -1,5 +1,20 @@
 # Visual Intex
 
+## <img src="images/kanjiMiddle01.png" width="60">
+- kanjiMiddle01 (20240328)
+- Tags: kanji, naka, middle
+- Files: [`png`](images/kanjiMiddle01.png)
+
+## <img src="images/kanjiOutside01.png" width="60">
+- kanjiOutside01 (20240328)
+- Tags: kanji, soto, outside
+- Files: [`png`](images/kanjiOutside01.png)
+
+## <img src="images/kanjiMiru01.png" width="60">
+- kanjiMiru01 (20240329)
+- Tags: kanji, miru, see
+- Files: [`png`](images/kanjiMiru01.png)
+
 ## <img src="images/kanjiIu01.png" width="60">
 - kanjiIu01 (20240329)
 - Tags: kanji, iu, say
