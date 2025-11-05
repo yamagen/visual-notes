@@ -1,6 +1,16 @@
 [
   {
     "date": [20240330],
+    "filename": "kanjiNakaSoto01",
+    "oldfilename": ["kanjiNakaSoto01"],
+    "version": 1,
+    "extension": ["png"],
+    "answer-ja": "中外, なかそと",
+    "answer-en": "inside/outside",
+    "tags": ["kanji", "naka", "soto", "inside", "outside"]
+  },
+  {
+    "date": [20240330],
     "filename": "kanjiYen01",
     "oldfilename": ["kanjiYen01"],
     "version": 1,

@@ -1,5 +1,10 @@
 # Visual Intex
 
+## <img src="images/kanjiNakaSoto01.png" width="60">
+- kanjiNakaSoto01 (20240330)
+- Tags: kanji, naka, soto, inside, outside
+- Files: [`png`](images/kanjiNakaSoto01.png)
+
 ## <img src="images/kanjiYen01.png" width="60">
 - kanjiYen01 (20240330)
 - Tags: kanji, yen, currency
