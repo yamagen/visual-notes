@@ -1,6 +1,17 @@
 [
   {
     "date": [20240330],
+    "filename": "kanjiTatsu01",
+    "oldfilename": ["kanjiTatsu01"],
+    "version": 1,
+    "class": "K44",
+    "extension": ["png"],
+    "answer-ja": "立, たつ",
+    "answer-en": "stand",
+    "tags": ["kanji", "tatsu", "stand"]
+  },
+  {
+    "date": [20240330],
     "filename": "kanjiNakaSoto01",
     "oldfilename": ["kanjiNakaSoto01"],
     "version": 1,

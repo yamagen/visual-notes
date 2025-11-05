@@ -1,5 +1,10 @@
 # Visual Intex
 
+## <img src="images/kanjiTatsu01.png" width="60">
+- kanjiTatsu01 (20240330)
+- Tags: kanji, tatsu, stand
+- Files: [`png`](images/kanjiTatsu01.png)
+
 ## <img src="images/kanjiNakaSoto01.png" width="60">
 - kanjiNakaSoto01 (20240330)
 - Tags: kanji, naka, soto, inside, outside
