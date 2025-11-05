@@ -1,12 +1,53 @@
 [
   {
+    "date": [20240329],
+    "filename": "kanjiIu01",
+    "oldfilename": ["kanjiIu01"],
+    "version": 1,
+    "extension": ["png"],
+    "answer-ja": "(言:い)う",
+    "answer-en": "say",
+    "tags": ["kanji", "iu", "say"]
+  },
+  {
+    "date": [20240329],
+    "filename": "kanjiDeru01",
+    "oldfilename": ["kanjiDeru01"],
+    "version": 1,
+    "extension": ["png"],
+    "answer-ja": "(出:で)る",
+    "answer-en": "exit",
+    "tags": ["kanji", "deru", "exit"]
+  },
+  {
+    "date": [20240329],
+    "filename": "kanjiHairu01",
+    "oldfilename": ["kanjiHairu01"],
+    "version": 1,
+    "extension": ["png"],
+    "answer-ja": "(入:はい)る",
+    "answer-en": "enter",
+    "tags": ["kanji", "hairu", "enter"]
+  },
+  {
+    "date": [20240330],
+    "filename": "kanjiYasumu01",
+    "oldfilename": ["kanjiYasumu01"],
+    "version": 1,
+    "class": "K44",
+    "extension": ["png"],
+    "answer-ja": "(休:やす)む",
+    "answer-en": "rest",
+    "tags": ["kanji", "yasumu", "rest"]
+  },
+  {
     "date": [20240330],
     "filename": "kanjiTatsu01",
     "oldfilename": ["kanjiTatsu01"],
     "version": 1,
     "class": "K44",
     "extension": ["png"],
-    "answer-ja": "立, たつ",
+    "answer-ja": "(立:た)つ",
     "answer-en": "stand",
     "tags": ["kanji", "tatsu", "stand"]
   },
@@ -16,8 +57,8 @@
     "oldfilename": ["kanjiNakaSoto01"],
     "version": 1,
     "extension": ["png"],
-    "answer-ja": "中外, なかそと",
-    "answer-en": "inside/outside",
+    "answer-ja": ["(中:なか)", "(外:そと)"],
+    "answer-en": ["inside", "outside"],
     "tags": ["kanji", "naka", "soto", "inside", "outside"]
   },
   {
@@ -27,7 +68,7 @@
     "version": 1,
     "class": "K44",
     "extension": ["png"],
-    "answer-ja": "円, えん",
+    "answer-ja": "(円:えん)",
     "answer-en": "yen",
     "tags": ["kanji", "yen", "currency"]
   },
@@ -38,7 +79,7 @@
     "version": 1,
     "class": "K44",
     "extension": ["png"],
-    "answer-ja": "田, ta",
+    "answer-ja": "(田:た)",
     "answer-en": "rice field",
     "tags": ["kanji", "ta", "rice field"]
   },
@@ -48,10 +89,10 @@
     "oldfilename": ["kanjiUeShita01"],
     "version": 1,
     "class": "K44",
+    "answer-ja": ["(上:うえ)", "(下:した)"],
+    "answer-en": ["upper", "lower"],
     "extension": ["png"],
-    "answer-ja": "上/下",
-    "answer-en": "ue/shita (up/down)",
-    "tags": ["kanji", "ue", "shita", "up", "down"]
+    "tags": ["kanji", "ue", "shita", "up", "down", "upper", "lower"]
   },
   {
     "date": [20250612],

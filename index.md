@@ -1,5 +1,25 @@
 # Visual Intex
 
+## <img src="images/kanjiIu01.png" width="60">
+- kanjiIu01 (20240329)
+- Tags: kanji, iu, say
+- Files: [`png`](images/kanjiIu01.png)
+
+## <img src="images/kanjiDeru01.png" width="60">
+- kanjiDeru01 (20240329)
+- Tags: kanji, deru, exit
+- Files: [`png`](images/kanjiDeru01.png)
+
+## <img src="images/kanjiHairu01.png" width="60">
+- kanjiHairu01 (20240329)
+- Tags: kanji, hairu, enter
+- Files: [`png`](images/kanjiHairu01.png)
+
+## <img src="images/kanjiYasumu01.png" width="60">
+- kanjiYasumu01 (20240330)
+- Tags: kanji, yasumu, rest
+- Files: [`png`](images/kanjiYasumu01.png)
+
 ## <img src="images/kanjiTatsu01.png" width="60">
 - kanjiTatsu01 (20240330)
 - Tags: kanji, tatsu, stand
@@ -22,7 +42,7 @@
 
 ## <img src="images/kanjiUeShita01.png" width="60">
 - kanjiUeShita01 (20240330)
-- Tags: kanji, ue, shita, up, down
+- Tags: kanji, ue, shita, up, down, upper, lower
 - Files: [`png`](images/kanjiUeShita01.png)
 
 ## <img src="images/thought2waka02.png" width="60">
