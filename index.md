@@ -1,5 +1,85 @@
 # Visual Intex
 
+## <img src="images/kanjiMoon01.png" width="60">
+- kanjiMoon01 (20240323)
+- Tags: kanji, tsuki, moon
+- Files: [`png`](images/kanjiMoon01.png)
+
+## <img src="images/kanjiFire01.png" width="60">
+- kanjiFire01 (20240323)
+- Tags: kanji, hi, fire
+- Files: [`png`](images/kanjiFire01.png)
+
+## <img src="images/kanjiWater01.png" width="60">
+- kanjiWater01 (20240323)
+- Tags: kanji, mizu, water
+- Files: [`png`](images/kanjiWater01.png)
+
+## <img src="images/kanjiTree01.png" width="60">
+- kanjiTree01 (20240323)
+- Tags: kanji, ki, tree
+- Files: [`png`](images/kanjiTree01.png)
+
+## <img src="images/kanjiGold01.png" width="60">
+- kanjiGold01 (20240324)
+- Tags: kanji, kin, gold
+- Files: [`png`](images/kanjiGold01.png)
+
+## <img src="images/kanjiSoil01.png" width="60">
+- kanjiSoil01 (20240324)
+- Tags: kanji, tsuchi, soil
+- Files: [`png`](images/kanjiSoil01.png)
+
+## <img src="images/kanjiMouth01.png" width="60">
+- kanjiMouth01 (20240324)
+- Tags: kanji, kuchi, mouth
+- Files: [`png`](images/kanjiMouth01.png)
+
+## <img src="images/kanjiEye01.png" width="60">
+- kanjiEye01 (20240324)
+- Tags: kanji, me, eye
+- Files: [`png`](images/kanjiEye01.png)
+
+## <img src="images/kanjiBig01.png" width="60">
+- kanjiBig01 (20240324)
+- Tags: kanji, dai, big
+- Files: [`png`](images/kanjiBig01.png)
+
+## <img src="images/kanjiSmall01.png" width="60">
+- kanjiSmall01 (20240324)
+- Tags: kanji, shou, small
+- Files: [`png`](images/kanjiSmall01.png)
+
+## <img src="images/kanjiMountain01.png" width="60">
+- kanjiMountain01 (20240324)
+- Tags: kanji, yama, mountain
+- Files: [`png`](images/kanjiMountain01.png)
+
+## <img src="images/kanjiRiver01.png" width="60">
+- kanjiRiver01 (20240324)
+- Tags: kanji, kawa, river
+- Files: [`png`](images/kanjiRiver01.png)
+
+## <img src="images/kanjiStand01.png" width="60">
+- kanjiStand01 (20240324)
+- Tags: kanji, tatsu, stand
+- Files: [`png`](images/kanjiStand01.png)
+
+## <img src="images/kanjiCountry01.png" width="60">
+- kanjiCountry01 (20240325)
+- Tags: kanji, kuni, country
+- Files: [`png`](images/kanjiCountry01.png)
+
+## <img src="images/kanjiUp01.png" width="60">
+- kanjiUp01 (20240325)
+- Tags: kanji, ue, up
+- Files: [`png`](images/kanjiUp01.png)
+
+## <img src="images/kanjiDown01.png" width="60">
+- kanjiDown01 (20240327)
+- Tags: kanji, shita, down
+- Files: [`png`](images/kanjiDown01.png)
+
 ## <img src="images/kanjiMiddle01.png" width="60">
 - kanjiMiddle01 (20240328)
 - Tags: kanji, naka, middle
