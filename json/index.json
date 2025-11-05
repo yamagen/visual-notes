@@ -1,6 +1,17 @@
 [
   {
     "date": [20240330],
+    "filename": "kanjiYen01",
+    "oldfilename": ["kanjiYen01"],
+    "version": 1,
+    "class": "K44",
+    "extension": ["png"],
+    "answer-ja": "円, えん",
+    "answer-en": "yen",
+    "tags": ["kanji", "yen", "currency"]
+  },
+  {
+    "date": [20240330],
     "filename": "kanjiTa01",
     "oldfilename": ["kanjiTa01"],
     "version": 1,

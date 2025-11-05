@@ -1,5 +1,10 @@
 # Visual Intex
 
+## <img src="images/kanjiYen01.png" width="60">
+- kanjiYen01 (20240330)
+- Tags: kanji, yen, currency
+- Files: [`png`](images/kanjiYen01.png)
+
 ## <img src="images/kanjiTa01.png" width="60">
 - kanjiTa01 (20240330)
 - Tags: kanji, ta, rice field
