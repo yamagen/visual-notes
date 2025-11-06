@@ -1,5 +1,38 @@
 [
   {
+    "date": [20240521],
+    "filename": "doraYaki02",
+    "oldfilename": ["doraYaki02"],
+    "version": 2,
+    "extension": ["png", "svg", "pdf"],
+    "class": "event",
+    "answer-ja": "どら(焼:や)き",
+    "answer-en": "dorayaki (pancake with red bean paste)",
+    "tags": ["event", "dorayaki", "food", "titech"]
+  },
+  {
+    "date": [20241105],
+    "filename": "doraYaki02isct",
+    "oldfilename": ["doraYaki02isct"],
+    "version": 2,
+    "extension": ["png", "svg", "pdf"],
+    "class": "event",
+    "answer-ja": "どら(焼:や)き",
+    "answer-en": "dorayaki (pancake with red bean paste)",
+    "tags": ["event", "dorayaki", "food", "isct"]
+  },
+  {
+    "date": [20240323],
+    "filename": "kanjiSun01",
+    "oldfilename": ["kanjiSun01"],
+    "version": 1,
+    "extension": ["png"],
+    "class": "K44",
+    "answer-ja": "(日:ひ)",
+    "answer-en": "sun",
+    "tags": ["kanji", "hi", "sun"]
+  },
+  {
     "date": [20240323],
     "filename": "kanjiMoon01",
     "oldfilename": ["kanjiMoon01"],

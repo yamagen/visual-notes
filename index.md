@@ -1,5 +1,20 @@
 # Visual Intex
 
+## <img src="images/doraYaki02.png" width="60">
+- doraYaki02 (20240521)
+- Tags: event, dorayaki, food, titech
+- Files: [`png`](images/doraYaki02.png), [`svg`](images/doraYaki02.svg), [`pdf`](images/doraYaki02.pdf)
+
+## <img src="images/doraYaki02isct.png" width="60">
+- doraYaki02isct (20241105)
+- Tags: event, dorayaki, food, isct
+- Files: [`png`](images/doraYaki02isct.png), [`svg`](images/doraYaki02isct.svg), [`pdf`](images/doraYaki02isct.pdf)
+
+## <img src="images/kanjiSun01.png" width="60">
+- kanjiSun01 (20240323)
+- Tags: kanji, hi, sun
+- Files: [`png`](images/kanjiSun01.png)
+
 ## <img src="images/kanjiMoon01.png" width="60">
 - kanjiMoon01 (20240323)
 - Tags: kanji, tsuki, moon
