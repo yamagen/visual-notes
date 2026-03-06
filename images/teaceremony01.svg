@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Vectornator for iOS (http://vectornator.io/) -->
+
+<svg
+   style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;"
+   xml:space="preserve"
+   version="1.1"
+   viewBox="0 0 400 400"
+   id="svg35"
+   sodipodi:docname="teaceremony01.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:vectornator="http://vectornator.io"><sodipodi:namedview
+   id="namedview35"
+   pagecolor="#ffffff"
+   bordercolor="#111111"
+   borderopacity="1"
+   inkscape:showpageshadow="0"
+   inkscape:pageopacity="0"
+   inkscape:pagecheckerboard="1"
+   inkscape:deskcolor="#d1d1d1"
+   showgrid="false"
+   inkscape:lockguides="true"
+   inkscape:zoom="1.033595"
+   inkscape:cx="212.84932"
+   inkscape:cy="264.12665"
+   inkscape:window-width="960"
+   inkscape:window-height="531"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg35" />
+<metadata
+   id="metadata1">
+<vectornator:setting
+   key="DimensionsVisible"
+   value="1" />
+<vectornator:setting
+   key="New"
+   value="1" />
+<vectornator:setting
+   key="SnapToPoints"
+   value="0" />
+<vectornator:setting
+   key="GuidesVisible"
+   value="1" />
+<vectornator:setting
+   key="RulersVisible"
+   value="1" />
+<vectornator:setting
+   key="CMYKEnabledKey"
+   value="0" />
+<vectornator:setting
+   key="SnapToEdges"
+   value="0" />
+<vectornator:setting
+   key="DisplayWhiteBackground"
+   value="0" />
+<vectornator:setting
+   key="SnapToGuides"
+   value="1" />
+<vectornator:setting
+   key="GridSpacing"
+   value="36" />
+<vectornator:setting
+   key="Units"
+   value="Pixels" />
+<vectornator:setting
+   key="DynamicGuides"
+   value="0" />
+<vectornator:setting
+   key="SnapToGrid"
+   value="0" />
+</metadata>
+<defs
+   id="defs1"><rect
+   x="126.10339"
+   y="118.37476"
+   width="146.79498"
+   height="43.733883"
+   id="rect72" /><rect
+   x="154.14931"
+   y="429.84375"
+   width="162.73727"
+   height="63.865741"
+   id="rect70" /><rect
+   x="158.64583"
+   y="368.02662"
+   width="105.4919"
+   height="44.820602"
+   id="rect36" />
+<path
+   id="TextPath"
+   d="M134.101+334.43C60.932+297.443+31.5879+208.168+68.5595+135.029C105.531+61.8907+194.818+32.5841+267.987+69.5712C341.157+106.558+370.501+195.833+333.529+268.971C296.557+342.11+207.271+371.417+134.101+334.43Z"
+   transform="matrix(0.390062 0.771636 -0.771636 0.390062 279.919 -32.1809)" />
+</defs>
+<g
+   id="レイヤー 1"
+   vectornator:layerName="レイヤー 1">
+<path
+   stroke="#00b782"
+   stroke-width="12"
+   d="M13.7559+201.165C13.7559+96.3079+98.7628+11.3041+203.624+11.3041C308.485+11.3041+393.492+96.3079+393.492+201.165C393.492+306.023+308.485+391.027+203.624+391.027C98.7628+391.027+13.7559+306.023+13.7559+201.165Z"
+   fill="#f7fbd0"
+   stroke-linecap="butt"
+   opacity="1"
+   stroke-linejoin="round"
+   id="path1" />
+<path
+   stroke="#000000"
+   stroke-width="4"
+   d="M7.43697+199.876C7.43697+92.2476+94.8004+4.99785+202.569+4.99785C310.337+4.99785+397.7+92.2476+397.7+199.876C397.7+307.504+310.337+394.754+202.569+394.754C94.8004+394.754+7.43697+307.504+7.43697+199.876Z"
+   fill="#f7fbd0"
+   stroke-linecap="butt"
+   fill-opacity="0"
+   opacity="1"
+   stroke-linejoin="round"
+   id="path2" />
+<text
+   stroke="#010000"
+   font-family="Georgia-Bold"
+   stroke-width="5"
+   stroke-opacity="0"
+   fill="#2704a0"
+   font-size="36px"
+   stroke-linecap="butt"
+   opacity="1"
+   transform="matrix(0.521773,-1.03219,1.03219,0.521773,-112.837,305.721)"
+   stroke-linejoin="round"
+   id="text2"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32.2792px;font-family:'Noto Serif CJK JP';-inkscape-font-specification:'Noto Serif CJK JP Bold'"><textPath
+     xlink:href="#TextPath"
+     method="align"
+     startOffset="0"
+     id="textPath2"
+     style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:32.2792px;font-family:'Noto Serif CJK JP';-inkscape-font-specification:'Noto Serif CJK JP Semi-Bold'">    TOKYO INSTITUTE OF TECHNOLOGY </textPath></text>
+<path
+   stroke="#00b782"
+   stroke-width="12"
+   d="M66.8247+200.933C66.8247+126.803+126.919+66.7087+201.049+66.7087C275.18+66.7087+335.274+126.803+335.274+200.933C335.274+275.064+275.18+335.158+201.049+335.158C126.919+335.158+66.8247+275.064+66.8247+200.933Z"
+   fill="#ffffff"
+   stroke-linecap="butt"
+   opacity="1"
+   stroke-linejoin="round"
+   id="path3" />
+<path
+   stroke="#000000"
+   stroke-width="4.77"
+   d="M72.6064+200.27C72.6064+129.606+129.891+72.3207+200.556+72.3207C271.221+72.3207+328.506+129.606+328.506+200.27C328.506+270.935+271.221+328.22+200.556+328.22C129.891+328.22+72.6064+270.935+72.6064+200.27Z"
+   fill="#ffffff"
+   stroke-linecap="butt"
+   fill-opacity="0"
+   opacity="1"
+   stroke-linejoin="round"
+   id="path4" />
+</g>
+<g
+   id="レイヤー 2"
+   vectornator:layerName="レイヤー 2">
+<path
+   stroke="#010000"
+   stroke-width="4"
+   d="M112.133+188.31C112.133+173.048+149.765+162.624+196.2+162.624C242.635+162.624+280.288+173.048+280.288+188.31C280.288+203.572+242.645+215.945+196.21+215.945C149.776+215.945+112.133+203.572+112.133+188.31Z"
+   fill="#ffffff"
+   stroke-linecap="butt"
+   fill-opacity="0.0126263"
+   opacity="1"
+   stroke-linejoin="round"
+   id="path5" />
+<path
+   stroke="#7a4300"
+   stroke-opacity="0"
+   stroke-width="4.68"
+   d="M116.256+197.541C116.256+188.599+152.098+178.014+195.538+178.014C238.978+178.014+273.565+188.599+273.565+197.541C273.565+206.482+237.985+214.255+194.545+214.255C151.105+214.255+116.256+206.482+116.256+197.541Z"
+   fill="#5b3302"
+   stroke-linecap="round"
+   opacity="1"
+   stroke-linejoin="round"
+   id="path6" />
+<path
+   stroke="#d97803"
+   stroke-opacity="0"
+   stroke-width="4.68"
+   d="M117.319+195.541C117.184+188.513+171.782+176.542+182.216+182.325C192.65+188.107+164.24+186.221+156.069+195.649C147.898+205.077+217.791+212.871+214.397+212.997C211.003+213.122+167.886+212.62+156.195+211.991C144.504+211.363+117.49+204.481+117.319+195.541Z"
+   fill="#f8a33d"
+   stroke-linecap="round"
+   fill-opacity="0.598485"
+   opacity="1"
+   stroke-linejoin="round"
+   id="path7" />
+<path
+   stroke="#010000"
+   stroke-width="4"
+   d="M112.018+188.701L135.185+289.344C135.185+289.344+140.849+308.98+195.663+307.141C250.476+305.302+257.574+287.417+257.574+287.417C257.574+287.417+276.49+198.786+277.643+195.455C278.797+192.124+281.63+212.461+196.195+214.004C110.76+215.547+112.018+188.701+112.018+188.701Z"
+   fill="#ffffff"
+   stroke-linecap="round"
+   opacity="1"
+   stroke-linejoin="round"
+   id="path8" />
+<path
+   stroke="#010000"
+   stroke-width="2"
+   d="M281.901+191.458C290.157+184.027+315.877+189.725+308.097+217.889C300.317+246.053+257.397+284.047+264.697+257.581C271.997+231.115+273.645+198.889+281.901+191.458Z"
+   fill="#ffffff"
+   stroke-linecap="butt"
+   opacity="1"
+   stroke-linejoin="round"
+   id="path9" />
+<path
+   stroke="#010000"
+   stroke-opacity="0"
+   stroke-width="4"
+   d="M289.025+226.643C297.131+216.42+295.226+206.972+293.258+204.725C291.002+202.149+290.547+202.357+297.01+202.588C302.218+202.774+304.145+211.821+301.522+219.247C297.53+230.553+265.217+262.192+267.899+252.943C269.038+249.017+270.121+243.934+270.121+243.934C270.121+243.934+281.279+236.412+289.025+226.643Z"
+   fill="#077a00"
+   stroke-linecap="butt"
+   opacity="1"
+   stroke-linejoin="round"
+   id="path10" />
+<path
+   stroke="#077a00"
+   stroke-opacity="0"
+   stroke-width="4.68"
+   d="M110.632+190.93C110.14+190.093+112.728+200.595+114.048+205.137C115.367+209.679+133.041+286.568+134.951+291.024C136.861+295.48+143.227+302.574+166.054+306.94C179.955+309.598+202.563+308.51+201.594+307.125C200.625+305.741+190.229+307.552+174.262+305.525C159.873+303.699+141.481+299.332+138.856+288.393C136.231+277.455+126.676+249.177+118.462+209.402C116.573+200.409+120.02+203.787+125.964+206.496C129.434+208.076+143.743+212.512+146.538+212.823C149.333+213.133+129.615+206.559+125.964+204.322C124.075+203.164+114.785+197.995+110.632+190.93Z"
+   fill="#077a00"
+   stroke-linecap="round"
+   opacity="1"
+   stroke-linejoin="round"
+   id="path11" />
+
+<g
+   opacity="1"
+   id="g25">
+<path
+   stroke="#000000"
+   vectornator:shadowColor="#000000"
+   vectornator:shadowOffset="2"
+   stroke-width="0.5"
+   fill="#019f74"
+   stroke-linecap="round"
+   vectornator:shadowAngle="0.79834"
+   stroke-linejoin="round"
+   opacity="1"
+   vectornator:shadowRadius="0"
+   d="M160.529+226.124L160.529+229.777C159.488+229.269+158.615+229.015+157.912+229.015C156.949+229.015+156.122+229.253+155.432+229.728C154.742+230.203+154.172+230.936+153.723+231.925C153.274+232.915+152.941+234.168+152.727+235.685C152.512+237.202+152.404+238.996+152.404+241.066C152.404+248.514+154.312+252.238+158.127+252.238C158.791+252.238+159.592+252.029+160.529+251.613L160.529+255.343C159.553+255.89+158.459+256.163+157.248+256.163C151.141+256.163+148.088+251.177+148.088+241.203C148.088+235.812+148.833+231.802+150.324+229.171C151.815+226.541+154.097+225.226+157.17+225.226C158.303+225.226+159.423+225.525+160.529+226.124Z"
+   vectornator:shadowOpacity="1"
+   id="path20" />
+<path
+   stroke="#000000"
+   vectornator:shadowColor="#000000"
+   vectornator:shadowOffset="2"
+   stroke-width="0.5"
+   fill="#019f74"
+   stroke-linecap="round"
+   vectornator:shadowAngle="0.79834"
+   stroke-linejoin="round"
+   opacity="1"
+   vectornator:shadowRadius="0"
+   d="M179.459+241.456C179.459+246.782+178.866+250.565+177.681+252.804C176.496+255.044+174.511+256.163+171.724+256.163C168.794+256.163+166.731+254.959+165.533+252.55C164.348+250.193+163.755+246.007+163.755+239.992C163.755+234.627+164.341+230.831+165.513+228.605C166.698+226.365+168.703+225.246+171.529+225.246C174.055+225.246+175.93+226.111+177.154+227.843C177.961+229.002+178.547+230.649+178.912+232.785C179.276+234.764+179.459+237.654+179.459+241.456ZM175.201+241.886C175.201+236.665+174.966+233.201+174.498+231.496C174.029+229.777+173.072+228.917+171.626+228.917C170.181+228.917+169.218+229.705+168.736+231.281C168.267+232.869+168.033+236.059+168.033+240.851C168.033+245.265+168.28+248.325+168.775+250.031C169.283+251.645+170.233+252.453+171.626+252.453C172.994+252.453+173.931+251.697+174.439+250.187C174.947+248.69+175.201+245.923+175.201+241.886Z"
+   vectornator:shadowOpacity="1"
+   id="path21" />
+<path
+   stroke="#000000"
+   vectornator:shadowColor="#000000"
+   vectornator:shadowOffset="2"
+   stroke-width="0.5"
+   fill="#019f74"
+   stroke-linecap="round"
+   vectornator:shadowAngle="0.79834"
+   stroke-linejoin="round"
+   opacity="1"
+   vectornator:shadowRadius="0"
+   d="M184.13+225.636L194.989+225.636L194.989+229.074L188.192+229.074L188.192+238.605L194.325+238.605L194.325+242.042L188.192+242.042L188.192+255.792L184.13+255.792L184.13+225.636Z"
+   vectornator:shadowOpacity="1"
+   id="path22" />
+<path
+   stroke="#000000"
+   vectornator:shadowColor="#000000"
+   vectornator:shadowOffset="2"
+   stroke-width="0.5"
+   fill="#019f74"
+   stroke-linecap="round"
+   vectornator:shadowAngle="0.79834"
+   stroke-linejoin="round"
+   opacity="1"
+   vectornator:shadowRadius="0"
+   d="M198.762+225.636L209.621+225.636L209.621+229.074L202.825+229.074L202.825+238.605L208.957+238.605L208.957+242.042L202.825+242.042L202.825+255.792L198.762+255.792L198.762+225.636Z"
+   vectornator:shadowOpacity="1"
+   id="path23" />
+<path
+   stroke="#000000"
+   vectornator:shadowColor="#000000"
+   vectornator:shadowOffset="2"
+   stroke-width="0.5"
+   fill="#019f74"
+   stroke-linecap="round"
+   vectornator:shadowAngle="0.79834"
+   stroke-linejoin="round"
+   opacity="1"
+   vectornator:shadowRadius="0"
+   d="M213.394+225.636L224.195+225.636L224.195+229.074L217.457+229.074L217.457+238.624L223.433+238.624L223.433+242.062L217.457+242.062L217.457+252.355L224.195+252.355L224.195+255.792L213.394+255.792L213.394+225.636Z"
+   vectornator:shadowOpacity="1"
+   id="path24" />
+<path
+   stroke="#000000"
+   vectornator:shadowColor="#000000"
+   vectornator:shadowOffset="2"
+   stroke-width="0.5"
+   fill="#019f74"
+   stroke-linecap="round"
+   vectornator:shadowAngle="0.79834"
+   stroke-linejoin="round"
+   opacity="1"
+   vectornator:shadowRadius="0"
+   d="M228.573+225.636L239.374+225.636L239.374+229.074L232.636+229.074L232.636+238.624L238.613+238.624L238.613+242.062L232.636+242.062L232.636+252.355L239.374+252.355L239.374+255.792L228.573+255.792L228.573+225.636Z"
+   vectornator:shadowOpacity="1"
+   id="path25" />
+</g>
+<g
+   opacity="1"
+   id="g30">
+<path
+   stroke="#000000"
+   vectornator:shadowColor="#000000"
+   vectornator:shadowOffset="2"
+   stroke-width="0.5"
+   fill="#04a073"
+   stroke-linecap="round"
+   vectornator:shadowAngle="0.79834"
+   stroke-linejoin="round"
+   opacity="1"
+   vectornator:shadowRadius="0"
+   d="M152.923+264.404L156.986+264.404L156.986+276.201L162.943+276.201L162.943+264.404L167.005+264.404L167.005+294.56L162.943+294.56L162.943+279.638L156.986+279.638L156.986+294.56L152.923+294.56L152.923+264.404Z"
+   vectornator:shadowOpacity="1"
+   id="path26" />
+<path
+   stroke="#000000"
+   vectornator:shadowColor="#000000"
+   vectornator:shadowOffset="2"
+   stroke-width="0.5"
+   fill="#04a073"
+   stroke-linecap="round"
+   vectornator:shadowAngle="0.79834"
+   stroke-linejoin="round"
+   opacity="1"
+   vectornator:shadowRadius="0"
+   d="M186.531+280.224C186.531+285.55+185.938+289.332+184.753+291.572C183.568+293.811+181.583+294.931+178.796+294.931C175.867+294.931+173.803+293.727+172.605+291.318C171.42+288.961+170.827+284.775+170.827+278.759C170.827+273.395+171.413+269.599+172.585+267.373C173.77+265.133+175.775+264.013+178.601+264.013C181.127+264.013+183.002+264.879+184.226+266.611C185.033+267.77+185.619+269.417+185.984+271.552C186.348+273.531+186.531+276.422+186.531+280.224ZM182.273+280.654C182.273+275.432+182.038+271.969+181.57+270.263C181.101+268.544+180.144+267.685+178.699+267.685C177.253+267.685+176.29+268.473+175.808+270.048C175.339+271.637+175.105+274.827+175.105+279.619C175.105+284.033+175.352+287.093+175.847+288.798C176.355+290.413+177.305+291.22+178.699+291.22C180.066+291.22+181.003+290.465+181.511+288.955C182.019+287.457+182.273+284.69+182.273+280.654Z"
+   vectornator:shadowOpacity="1"
+   id="path27" />
+<path
+   stroke="#000000"
+   vectornator:shadowColor="#000000"
+   vectornator:shadowOffset="2"
+   stroke-width="0.5"
+   fill="#04a073"
+   stroke-linecap="round"
+   vectornator:shadowAngle="0.79834"
+   stroke-linejoin="round"
+   opacity="1"
+   vectornator:shadowRadius="0"
+   d="M190.333+264.404L194.318+264.404L194.318+285.712C194.318+287.887+194.513+289.332+194.904+290.048C195.307+290.764+196.102+291.123+197.286+291.123C198.471+291.123+199.253+290.81+199.63+290.185C200.021+289.547+200.216+288.251+200.216+286.298L200.216+264.404L204.201+264.404L204.201+286.298C204.201+289.58+203.699+291.8+202.697+292.958C201.499+294.274+199.669+294.931+197.208+294.931C194.5+294.931+192.592+294.085+191.486+292.392C190.717+291.233+190.333+289.007+190.333+285.712L190.333+264.404Z"
+   vectornator:shadowOpacity="1"
+   id="path28" />
+<path
+   stroke="#000000"
+   vectornator:shadowColor="#000000"
+   vectornator:shadowOffset="2"
+   stroke-width="0.5"
+   fill="#04a073"
+   stroke-linecap="round"
+   vectornator:shadowAngle="0.79834"
+   stroke-linejoin="round"
+   opacity="1"
+   vectornator:shadowRadius="0"
+   d="M208.628+264.404L213.98+264.404C216.193+264.404+217.841+264.931+218.921+265.986C220.288+267.353+220.972+269.443+220.972+272.255C220.972+274.417+220.611+276.152+219.888+277.46C219.165+278.769+218.134+279.58+216.792+279.892L222.339+294.56L218.218+294.56L212.691+279.794L212.691+294.56L208.628+294.56L208.628+264.404ZM212.691+277.763C214.266+277.763+215.38+277.399+216.031+276.669C216.682+275.94+217.007+274.71+217.007+272.978C217.007+272.04+216.939+271.24+216.802+270.576C216.665+269.912+216.451+269.371+216.158+268.955C215.865+268.538+215.487+268.232+215.025+268.037C214.563+267.841+214.012+267.744+213.374+267.744L212.691+267.744L212.691+277.763Z"
+   vectornator:shadowOpacity="1"
+   id="path29" />
+<path
+   stroke="#000000"
+   vectornator:shadowColor="#000000"
+   vectornator:shadowOffset="2"
+   stroke-width="0.5"
+   fill="#04a073"
+   stroke-linecap="round"
+   vectornator:shadowAngle="0.79834"
+   stroke-linejoin="round"
+   opacity="1"
+   vectornator:shadowRadius="0"
+   d="M235.322+265.029L235.322+268.994C234.085+268.108+232.971+267.665+231.982+267.665C230.914+267.665+230.042+268.043+229.365+268.798C228.688+269.514+228.349+270.471+228.349+271.669C228.349+272.724+228.59+273.629+229.072+274.384C229.319+274.788+229.726+275.309+230.292+275.947C230.859+276.585+231.591+277.353+232.49+278.251C234.143+279.931+235.27+281.383+235.869+282.607C236.468+283.792+236.767+285.244+236.767+286.962C236.767+289.293+236.109+291.214+234.794+292.724C233.479+294.195+231.793+294.931+229.736+294.931C228.004+294.931+226.526+294.456+225.302+293.505L225.302+289.482C226.748+290.537+228.063+291.064+229.248+291.064C230.354+291.064+231.22+290.696+231.845+289.96C232.47+289.225+232.783+288.225+232.783+286.962C232.783+285.869+232.542+284.886+232.06+284.013C231.813+283.596+231.468+283.118+231.025+282.578C230.582+282.037+230.029+281.435+229.365+280.771C228.336+279.755+227.483+278.857+226.806+278.076C226.129+277.294+225.628+276.611+225.302+276.025C224.677+274.879+224.365+273.434+224.365+271.689C224.365+269.332+224.977+267.464+226.201+266.083C227.438+264.69+229.098+263.994+231.181+263.994C232.626+263.994+234.007+264.339+235.322+265.029Z"
+   vectornator:shadowOpacity="1"
+   id="path30" />
+</g>
+
+</g>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.3333px;line-height:0.2;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP Bold';fill:#2704a0;fill-opacity:1"
+   x="147.40402"
+   y="375.00458"
+   id="text71"><tspan
+     sodipodi:role="line"
+     id="tspan71"
+     x="147.40402"
+     y="375.00458"
+     style="font-size:37.3333px;fill:#2704a0;fill-opacity:1">茶道部</tspan></text><text
+   xml:space="preserve"
+   id="text72"
+   style="fill:#2704a0;-inkscape-font-specification:'Noto Serif CJK JP Semi-Bold';font-family:'Noto Serif CJK JP';font-size:37.33333333px;font-weight:600;line-height:0.2;font-style:normal;font-stretch:normal;font-variant:normal;fill-opacity:1;white-space:pre;shape-inside:url(#rect72)" /><text
+   xml:space="preserve"
+   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:32px;line-height:0.8;font-family:'Noto Serif CJK JP';-inkscape-font-specification:'Noto Serif CJK JP Semi-Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+   x="201.78075"
+   y="110.39178"
+   id="text73"><tspan
+     sodipodi:role="line"
+     id="tspan73"
+     x="201.78075"
+     y="110.39178"
+     style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:'Noto Serif CJK JP';-inkscape-font-specification:'Noto Serif CJK JP Heavy';text-align:center;text-anchor:middle;fill:#000000;line-height:0.8">Tea </tspan><tspan
+     sodipodi:role="line"
+     x="201.78075"
+     y="135.99178"
+     style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:'Noto Serif CJK JP';-inkscape-font-specification:'Noto Serif CJK JP Heavy';text-align:center;text-anchor:middle;fill:#000000;line-height:0.8"
+     id="tspan74">Ceremony</tspan></text></svg>
