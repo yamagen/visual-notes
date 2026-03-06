@@ -1,0 +1,42 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="format-detection" content="telephone=no"/>
+<meta name="robots" content="noindex">
+<meta http-equiv="Content-Language" content="ja">
+<title>ダウンロードエラー</title>
+<link href="../css/tm01.css" rel="stylesheet" type="text/css" id="tm01css" title="tm01css">
+<style type="text/css">
+<!--
+-->
+</style>
+<SCRIPT language="JavaScript">
+<!--
+}
+//-->
+</SCRIPT>
+</head>
+<body>
+<!-- メインフレーム START -->
+<div id="tmMainFrame">
+
+	<!-- メインコンテンツ（右全体）  START -->
+	<div id="tmRightCont" style="max-width: 500px;margin: 20px auto 10px auto;">
+
+		<!-- コンテンツ説明  START-->
+		<div id="tmContMain" style="margin-top:0;">
+			<h1>ダウンロードエラー</h1>
+			<div class="tmContNaiyo" style="text-align: center;">
+				<p>システムエラー（セッション不正）が発生しました。<br>しばらく待ってからご利用ください。</p>
+				<div class="opeBtn" onclick="javascript:history.back();" style="width:200px;margin:15px auto">戻る</div>
+			</div>
+		</div>
+		<!-- コンテンツ説明  END-->
+
+	</div>
+</div>
+</body>
+</html>

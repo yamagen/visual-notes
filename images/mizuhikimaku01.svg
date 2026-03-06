@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 1632.96 410" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs/>
+<clipPath id="ArtboardFrame">
+<rect height="410" width="1632.96" x="0" y="0"/>
+</clipPath>
+<g clip-path="url(#ArtboardFrame)" id="レイヤー-1">
+<g opacity="1">
+<path d="M821.363 4.99724C821.363 4.99724 716.42 183.305 503.435 296.062C290.451 408.818 0.556142 402.916 0.556142 402.916L4.67388 4.08545L821.363 4.99724Z" fill="#680082" fill-rule="nonzero" opacity="1" stroke="#680082" stroke-linecap="butt" stroke-linejoin="round" stroke-width="10"/>
+<path d="M812.251 4.99724C812.251 4.99724 917.195 183.305 1130.18 296.062C1343.16 408.818 1633.06 402.916 1633.06 402.916L1628.94 4.08545L812.251 4.99724Z" fill="#680082" fill-rule="nonzero" opacity="1" stroke="#680082" stroke-linecap="butt" stroke-linejoin="round" stroke-width="10"/>
+</g>
+</g>
+<g id="レイヤー-2">
+<g opacity="1">
+<path d="M816.878 16.807L820.396 343.465" fill="none" opacity="1" stroke="#680082" stroke-linecap="butt" stroke-linejoin="round" stroke-width="10"/>
+<path d="M818.125 144.618C818.125 144.618 793.713 130.811 774.933 132.152C756.152 133.493 745.647 139.478 745.077 147.579C744.507 155.68 756.496 162.294 775.088 161.688C793.679 161.082 818.196 144.616 818.196 144.616C818.196 144.616 842.552 132.344 861.439 132.79C880.326 133.236 891.29 137.437 891.223 145.165C891.157 152.892 882.327 160.683 863.542 159.719C844.757 158.754 818.125 144.618 818.125 144.618Z" fill="none" opacity="1" stroke="#680082" stroke-linecap="butt" stroke-linejoin="round" stroke-width="10"/>
+<path d="M796.533 342.988C796.533 342.988 790.173 192.066 817.917 190.849C845.661 189.633 840.488 341.118 840.488 341.118" fill="none" opacity="1" stroke="#680082" stroke-linecap="butt" stroke-linejoin="round" stroke-width="10"/>
+<path d="M781.392 343.403C781.392 343.403 770.564 192.481 817.795 191.265C865.025 190.048 856.218 341.533 856.218 341.533" fill="none" opacity="1" stroke="#680082" stroke-linecap="butt" stroke-linejoin="round" stroke-width="10"/>
+</g>
+</g>
+<g id="レイヤー-3">
+<g opacity="1">
+<path d="M198.287 193.78C198.287 148.434 235.047 111.673 280.394 111.673C325.74 111.673 362.5 148.434 362.5 193.78C362.5 239.126 325.74 275.887 280.394 275.887C235.047 275.887 198.287 239.126 198.287 193.78Z" fill="#680082" fill-rule="nonzero" opacity="1" stroke="#ffffff" stroke-linecap="butt" stroke-linejoin="round" stroke-width="10"/>
+<path d="M278.898 253.217L219.373 193.691L278.898 134.165L338.424 193.691L278.898 253.217Z" fill="#680082" fill-rule="nonzero" opacity="1" stroke="#ffffff" stroke-linecap="butt" stroke-linejoin="round" stroke-width="10"/>
+<path d="M278.365 223.187L248.602 193.424L278.365 163.662L308.128 193.424L278.365 223.187Z" fill="#680082" fill-rule="nonzero" opacity="1" stroke="#ffffff" stroke-linecap="butt" stroke-linejoin="round" stroke-width="10"/>
+</g>
+<g opacity="1">
+<path d="M1269.03 193.78C1269.03 148.434 1305.79 111.673 1351.14 111.673C1396.49 111.673 1433.25 148.434 1433.25 193.78C1433.25 239.126 1396.49 275.887 1351.14 275.887C1305.79 275.887 1269.03 239.126 1269.03 193.78Z" fill="#680082" fill-rule="nonzero" opacity="1" stroke="#ffffff" stroke-linecap="butt" stroke-linejoin="round" stroke-width="10"/>
+<path d="M1349.64 253.217L1290.12 193.691L1349.64 134.165L1409.17 193.691L1349.64 253.217Z" fill="#680082" fill-rule="nonzero" opacity="1" stroke="#ffffff" stroke-linecap="butt" stroke-linejoin="round" stroke-width="10"/>
+<path d="M1349.11 223.187L1319.35 193.424L1349.11 163.662L1378.87 193.424L1349.11 223.187Z" fill="#680082" fill-rule="nonzero" opacity="1" stroke="#ffffff" stroke-linecap="butt" stroke-linejoin="round" stroke-width="10"/>
+</g>
+</g>
+</svg>
